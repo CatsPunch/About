@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CatsPunch and it's a pleasure to meet you. I hope we'll get along like orange mocha frappuccino time! IYKYK 
+- 👋 Hi, I’m @CatsPunch and it's a pleasure to meet you! 
 - 👀 I’m interested in learning, creating systems, & cannabis.
 - 🌱 I’m currently learning coding so I can build a new system to help others.
-- 💞️ I’m looking to collaborate on some NFTs.
+- 💞️ I’m looking to collaborate on some NFT related projects.
 - 📫 How to reach me? https://opensea.io/collection/catspunchnft or Twitter DM '@CatsPunchNFT'. 
 
 <!---
