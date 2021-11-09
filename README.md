@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CatsPunch and it's a pleasure to meet you! 
-- 👀 I’m interested in learning, creating systems, & cannabis.
+- 👋 Hi, I’m @Cathena and it's a pleasure to e-meet you! I'm the head dreamer here at @CatsPunchNFT just learning how to code for this project. 
 - 🌱 I’m currently learning coding so I can build a new system to help others.
-- 💞️ I’m looking to collaborate on some NFT related projects.
 - 📫 How to reach me? https://opensea.io/collection/catspunchnft or Twitter DM '@CatsPunchNFT'. 
 
 <!---
